@@ -1,0 +1,257 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261dsff11c2ab6a",
+      "course_id": "01",
+      "title": "HTML Headings",
+      "img": "https://www.schudio.com/wp-content/uploads/2016/10/html-headings.png?x14409",
+      "details": "HTML headings are defined with the <h1> to <h6> tags. <h1> defines the most important heading. <h6> defines the least important heading.  Headings Are Important:- Search engines use the headings to index the structure and content of your web pages. Users often skim a page by its headings. It is important to use headings to show the document structure. <h1> headings should be used for main headings, followed by <h2> headings, then the less important <h3>, and so on.  Bigger Headings:- Each HTML heading has a default size. However, you can specify the size for any heading with the style attribute, using the CSS font-size property:"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "course_id": "01",
+      "title": "HTML Paragraphs",
+      "img": "https://www.miltonmarketing.com/wp-content/uploads/2018/03/mmptag252a97dac120c5384d542fb707c7996b.jpg",
+      "details": "A paragraph always starts on a new line, and is usually a block of text. The HTML <p> element defines a paragraph. A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.  HTML Display:-You cannot be sure how HTML will be displayed.Large or small screens, and resized windows will create different results.With HTML, you cannot change the display by adding extra spaces or extra lines in your HTML code.The browser will automatically remove any extra spaces and lines when the page is displayed:"
+    },
+  
+    {
+      "_id": "f69a695f037cdsd9484cecaea37ca71011",
+      "course_id": "01",
+      "title": "HTML Styles",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/html-style-attribute.jpg",
+      "details": " The HTML style attribute is used to add styles to an element, such as color, font, size, and more. The HTML Style Attribute:- Setting the style of an HTML element, can be done with the style attribute.The HTML style attribute has the following syntax:  <tagname style='property:value;'>  The property is a CSS property. The value is a CSS value. Background Color:- The CSS background-color property defines the background color for an HTML element."
+    },
+  
+    {
+      "_id": "f69a695f037cd9484cecaeasdsdf37ca71011",
+      "course_id": "01",
+      "title": "HTML Text Formatting",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/12/HTML-Text-Formatting-Tags.jpg",
+      "details": " HTML contains several elements for defining text with a special meaning.  The HTML <b> element defines bold text, without any extra importance. Example:- <b>This text is bold</b> The HTML <strong> element defines text with strong importance. The content inside is typically displayed in bold. Example:-  <strong>This text is important!</strong>  The HTML <i> element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic. Example:- <i>This text is italic</i> "
+    },
+    {
+      "_id": "f69a695f037cd9484cecaeasdsdf37ca710345311",
+      "course_id": "01",
+      "title": "HTML Tables",
+      "img": "https://www.freecodecamp.org/news/content/images/2021/09/uide-to-writting-a-good-readme-file--7-.png",
+      "details": " HTML tables allow web developers to arrange data into rows and columns. Define an HTML Table:- A table in HTML consists of table cells inside rows and columns.  Table Cells:- Each table cell is defined by a <td> and a </td> tag. td stands for table data. Everything between <td> and </td> are the content of the table cell. Table Rows:- Each table row starts with a <tr> and ends with a </tr> tag. tr stands for table row."
+    },
+    {
+      "_id": "f36fd9a695f037cd9484cecaeasdsdf37ca710345311",
+      "course_id": "01",
+      "title": "HTML Links",
+      "img": "https://monsterhost.com/wp-content/uploads/2021/03/beginner-guide-for-how-to-link-css-to-html.jpg",
+      "details": " Links are found in nearly all web pages. Links allow users to click their way from page to page. HTML Links - Hyperlinks:- HTML links are hyperlinks. You can click on a link and jump to another document.When you move the mouse over a link, the mouse arrow will turn into a little hand. HTML Links - Syntax:- The HTML <a> tag defines a hyperlink. It has the following syntax:  <a href='url'>link text</a> "
+    },
+    {
+      "_id": "f36fd9a695f037cd9sdf484cecaeasdsdf37ca710345311",
+      "course_id": "02",
+      "title": "CSS Syntax",
+      "img": "https://www.departmentofproduct.com/wp-content/uploads/2017/04/CSS-syntax.001.jpeg",
+      "details": " A CSS rule consists of a selector and a declaration block. The selector points to the HTML element you want to style. The declaration block contains one or more declarations separated by semicolons. Each declaration includes a CSS property name and a value, separated by a colon. Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces. Example:- In this example all <p> elements will be center-aligned, with a red text color: p { color: red; text-align: center; } Example Explained:-  p is a selector in CSS (it points to the HTML element you want to style: <p>). color is a property, and red is the property value text-align is a property, and center is the property value"
+    },
+    {
+      "_id": "f36fd9a695f037cd9sdf484reyu345311",
+      "course_id": "02",
+      "title": "CSS Selectors",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/09/Types-of-CSS-Selectors.png",
+      "details": "A CSS selector selects the HTML element(s) you want to style.  The CSS id Selector:- The id selector uses the id attribute of an HTML element to select a specific element. The id of an element is unique within a page, so the id selector is used to select one unique element! To select an element with a specific id, write a hash (#) character, followed by the id of the element. Example:- The CSS rule below will be applied to the HTML element with id='para1': #para1 { text-align: center; color: red; } The CSS class Selector:- The class selector selects HTML elements with a specific class attribute. To select elements with a specific class, write a period (.) character, followed by the class name. Example:- In this example all HTML elements with class='center' will be red and center-aligned: .center { text-align: center; color: red; }"
+    },
+    {
+      "_id": "f36fd9a695f037cd9sdasdf3484reyu345311",
+      "course_id": "02",
+      "title": "CSS Colors",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2020/03/CSS-Color-Codes.jpg",
+      "details": "Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values. CSS Color Names:- In CSS, a color can be specified by using a predefined color name: Tomato, Orange, DodgerBlue, MediumSeaGreen, Gray, SlateBlue, Violet, LightGray. CSS Text Color:-  You can set the color of text: Example:- <h1 style='color:Tomato;'>Hello World</h1> <p style='color:DodgerBlue;'>Lorem ipsum...</p> <p style='color:MediumSeaGreen;'>Ut wisi enim...</p>"
+    },
+    {
+      "_id": "f36fd9a695f037cd9sdasdf3sd452345311",
+      "course_id": "02",
+      "title": "CSS Borders",
+      "img": "https://eqsash.com/custom/files/images/articles/css-border.jpg",
+      "details": "The CSS border properties allow you to specify the style, width, and color of an element's border. CSS Border Style:- The border-style property specifies what kind of border to display. The following values are allowed:-  dotted - Defines a dotted border, dashed - Defines a dashed border, solid - Defines a solid border, double - Defines a double border, groove - Defines a 3D grooved border. The effect depends on the border-color value, ridge - Defines a 3D ridged border. The effect depends on the border-color value, hidden - Defines a hidden border, none - Defines no border.  The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border)."
+    },
+    {
+      "_id": "f36fd9a564fgd9sdasdf3sd452345311",
+      "course_id": "02",
+      "title": "CSS Margins",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Margin-Color.jpg",
+      "details": "Margins are used to create space around elements, outside of any defined borders. The CSS margin properties are used to create space around elements, outside of any defined borders. With CSS, you have full control over the margins. There are properties for setting the margin for each side of an element (top, right, bottom, and left). Margin - Individual Sides:- CSS has properties for specifying the margin for each side of an element: margin-top margin-right margin-bottom margin-left"
+    },
+    {
+      "_id": "f36fd9a695f037cd94356sdf452345311",
+      "course_id": "02",
+      "title": "CSS Padding",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Padding.jpg",
+      "details": "Padding is used to create space around an element's content, inside of any defined borders. CSS Padding:-  The CSS padding properties are used to generate space around an element's content, inside of any defined borders. With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left). Padding - Individual Sides:-  CSS has properties for specifying the padding for each side of an element: padding-top  padding-right   padding-bottom  padding-left"
+    },
+    {
+      "_id": "f36fd9a695f037cd9435dsj452345311",
+      "course_id": "03",
+      "title": "JavaScript Variables",
+      "img": "https://miro.medium.com/max/1400/1*lrq9keAv-dGD_gtb0TNknw.jpeg",
+      "details": "In a programming language, variables are used to store data values. JavaScript uses the keywords var, let and const to declare variables. An equal sign is used to assign values to variables. In this example, x is defined as a variable. Then, x is assigned (given) the value 6: let x;  x = 6; . JavaScript Operators:- JavaScript uses arithmetic operators ( + - * / ) to compute values: (5 + 6) * 10 . JavaScript Expressions:- An expression is a combination of values, variables, and operators, which computes to a value. The computation is called an evaluation. For example, 5 * 10 evaluates to 50: 5 * 10"
+    },
+    {
+      "_id": "f36fd9a345sd5f037cd94356sdf452345311",
+      "course_id": "03",
+      "title": "JavaScript Comments",
+      "img": "https://miro.medium.com/max/960/1*KJ96kJKTZvrMZc0Ni5SkOA.jpeg",
+      "details": "JavaScript comments can be used to explain JavaScript code, and to make it more readable. JavaScript comments can also be used to prevent execution, when testing alternative code. Single Line Comments:- Single line comments start with //. Any text between // and the end of the line will be ignored by JavaScript (will not be executed). This example uses a single-line comment before each code line:  Multi-line Comments:- Multi-line comments start with /* and end with */. Any text between /* and */ will be ignored by JavaScript. This example uses a multi-line comment (a comment block) to explain the code:"
+    },
+  
+    {
+      "_id": "f36fd9a69ds5f037cd94353dsdf452345311",
+      "course_id": "03",
+      "title": "JavaScript Data Types",
+      "img": "https://qph.cf2.quoracdn.net/main-qimg-c0142cc0184cb471a156e4bffee42a76-pjlq",
+      "details": "The Concept of Data Types:- In programming, data types is an important concept. To be able to operate on variables, it is important to know something about the type. Without data types, a computer cannot safely solve this: let x = 16 + 'Volvo';  Does it make any sense to add 'Volvo' to sixteen? Will it produce an error or will itproduce a result?  JavaScript will treat the example above as: let x = '16' + 'Volvo'; When adding a number and a string, JavaScript will treat the number as a string."
+    },
+    {
+      "_id": "f36fd9a695ffds54356sdf452345311",
+      "course_id": "03",
+      "title": "JavaScript Functions",
+      "img": "https://simplesnippets.tech/wp-content/uploads/2018/10/functions-in-javascript-featured-image-1280x720.jpg",
+      "details": "A JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when 'something' invokes it (calls it). JavaScript Function Syntax:- A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses (). Function names can contain letters, digits, underscores, and dollar signs (same rules as variables). The parentheses may include parameter names separated by commas: (parameter1, parameter2, ...) The code to be executed, by the function, is placed inside curly brackets: {} Function parameters are listed inside the parentheses () in the function definition. Function arguments are the values received by the function when it is invoked. Inside the function, the arguments (the parameters) behave as local variables."
+    },
+    {
+      "_id": "f36fd9a6dvvvxcv4sdf452345311",
+      "course_id": "03",
+      "title": "JavaScript Objects",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/10/JavaScript-Objects-2.png",
+      "details": "Real Life Objects, Properties, and Methods:-In real life, a car is an object. A car has properties like weight and color, and methods like start and stop: All cars have the same properties, but the property values differ from car to car. All cars have the same methods, but the methods are performed at different times. JavaScript Objects:- You have already learned that JavaScript variables are containers for data values. This code assigns a simple value (Fiat) to a variable named car: let car = 'Fiat';  Objects are variables too. But objects can contain many values. This code assigns many values (Fiat, 500, white) to a variable named car: const car = {type:'Fiat', model:'500', color:'white'}; The values are written as name:value pairs (name and value separated by a colon)."
+    },
+    {
+      "_id": "f36fd9a695f037dsaf334sdfg34356sdf452345311",
+      "course_id": "03",
+      "title": "JavaScript Arrays",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/09/Arrays-in-JavaScript.png",
+      "details": "An array is a special variable, which can hold more than one value: const cars = ['Saab', 'Volvo', 'BMW']; Creating an Array:- Using an array literal is the easiest way to create a JavaScript Array. Syntax: const array_name = [item1, item2, ...]; Arrays are Objects:- Arrays are a special type of objects. The typeof operator in JavaScript returns 'object' for arrays. But, JavaScript arrays are best described as arrays. Arrays use numbers to access its 'elements'. In this example, person[0] returns John: The length property of an array returns the length of an array (the number of array elements). "
+    },
+    {
+      "_id": "f36fd9a695f037dsaf334sdfg34356dfs311",
+      "course_id": "04",
+      "title": "React JSX",
+      "img": "https://miro.medium.com/max/650/1*rJB4Tcz_ZZnliNxYmdfGqw.jpeg",
+      "details": "JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React. JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement()  and/or appendChild() methods. JSX converts HTML tags into react elements. You are not required to use JSX, but JSX makes it easier to write React applications. Here are two examples.  Expressions in JSX:- With JSX you can write expressions inside curly braces { }. The expression can be a React variable, or property, or any other valid JavaScript expression. JSX will execute the expression and return the result:"
+    },
+    {
+      "_id": "f36fd9a695fasdf32232sdfg34356sdf452345311",
+      "course_id": "04",
+      "title": "React Components",
+      "img": "https://cdn.educba.com/academy/wp-content/uploads/2020/03/React-Components.jpg",
+      "details": "Components are like functions that return HTML elements. Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. Components come in two types, Class components and Function components, in this tutorial we will concentrate on Function components. Function Component:- A Function component also returns HTML, and behaves much the same way as a Class component, but Function components can be written using much less code, are easier to understand, and will be preferred in this tutorial."
+    },
+    {
+      "_id": "f36ffdsfdsf3242342dfas56sdf452345311",
+      "course_id": "04",
+      "title": "React Props",
+      "img": "https://www.freecodecamp.org/news/content/images/2022/09/How-to-use-props-in-reactjs.png",
+      "details": "Props are arguments passed into React components. Props are passed to components via HTML attributes. React Props:-React Props are like function arguments in JavaScript and attributes in HTML. To send props into a component, use the same syntax as HTML attributes:  Add a 'brand' attribute to the Car element: const myElement = <Car brand='Ford' />;  The component receives the argument as a props object: Use the brand attribute in the component:  function Car(props) { return <h2>I am a { props.brand }!</h2>; }"
+    },
+    {
+      "_id": "f36fd9a695f037dsaf33dsa234134r45311",
+      "course_id": "04",
+      "title": "React Forms",
+      "img": "https://daveceddia.com/images/react-forms.png",
+      "details": "Just like in HTML, React uses forms to allow users to interact with the web page.  Handling Forms:- Handling forms is about how you handle the data when it changes value or gets submitted. In HTML, form data is usually handled by the DOM. In React, form data is usually handled by the components. When the data is handled by the components, all the data is stored in the component state. You can control changes by adding event handlers in the onChange attribute. We can use the useState Hook to keep track of each inputs value and provide a 'single source of truth' for the entire application."
+    },
+    {
+      "_id": "f36fd9a695f037dsaf334sdfg34356342asd311",
+      "course_id": "04",
+      "title": "React Router",
+      "img": "https://miro.medium.com/max/880/1*kjZAT2HyYLv5gKT9SMBAHA.png",
+      "details": "Create React App doesn't include page routing. React Router is the most popular solution.  To add React Router in your application, run this in the terminal from the root directory of the application: npm i -D react-router-dom We wrap our content first with <BrowserRouter>. Then we define our <Routes>. An application can have multiple <Routes>. Our basic example only uses one. <Route>s can be nested. The first <Route> has a path of / and renders the Layout component. The nested <Route>s inherit and add to the parent route. So the blogs path is combined with the parent and becomes /blogs. The Home component route does not have a path but has an index attribute. That specifies this route as the default route for the parent route, which is /. Setting the path to * will act as a catch-all for any undefined URLs. This is great for a 404 error page."
+    },
+    {
+      "_id": "f36fd9a695f037dsaf33324dfscz45311",
+      "course_id": "04",
+      "title": "Styling React Using CSS",
+      "img": "https://nordschool.com/assets/static/css-in-react.07cc2b7.36bc158.png",
+      "details": "There are many ways to style React with CSS, this tutorial will take a closer look at three common ways: Inline styling, CSS stylesheets, CSS Modules. To style an element with the inline style attribute, the value must be a JavaScript object.  CSS Stylesheet:- You can write your CSS styling in a separate file, just save the file with the .css file extension, and import it in your application. Another way of adding styles to your application is to use CSS Modules. CSS Modules are convenient for components that are placed in separate files. The CSS inside a module is available only for the component that imported it, and you do not have to worry about name conflicts. Create the CSS module with the .module.css extension, example: my-style.module.css."
+    },
+    {
+      "_id": "f36fd9a3232dsafsafsfdsfw322342311",
+      "course_id": "05",
+      "title": "Bootstrap 5 Containers",
+      "img": "https://www.dcrub.com/wp-content/uploads/2021/10/container-in-bootstrap-5-1024x576.png",
+      "details": "You learned from the previous chapter that Bootstrap requires a containing element to wrap site contents. Containers are used to pad the content inside of them, and there are two container classes available: The .container class provides a responsive fixed width container The .container-fluid class provides a full width container, spanning the entire width of the viewport. Fluid Container:- Use the .container-fluid class to create a full width container, that will always span the entire width of the screen (width is always 100%). Container Padding:- By default, containers have left and right padding, with no top or bottom padding. Therefore, we often use spacing utilities, such as extra padding and margins to make them look even better. For example, .pt-5 means 'add a large top padding'."
+    },
+    {
+      "_id": "f36fd9a695f0dsfsdfsadf324234sdf5311",
+      "course_id": "05",
+      "title": "Bootstrap 5 Grids",
+      "img": "https://i.ytimg.com/vi/DZKf9l42WCo/maxresdefault.jpg",
+      "details": "Bootstrap 5 Grid System:- Bootstrap's grid system is built with flexbox and allows up to 12 columns across the page. If you do not want to use all 12 columns individually, you can group the columns together to create wider columns. The grid system is responsive, and the columns will re-arrange automatically depending on the screen size. Make sure that the sum adds up to 12 or fewer (it is not required that you use all 12 available columns). Grid Classes:-The Bootstrap 5 grid system has six classes:.col- (extra small devices - screen width less than 576px), .col-sm- (small devices - screen width equal to or greater than 576px),  .col-md- (medium devices - screen width equal to or greater than 768px),  .col-lg- (large devices - screen width equal to or greater than 992px),  .col-xl- (xlarge devices - screen width equal to or greater than 1200px), .col-xxl- (xxlarge devices - screen width equal to or greater than 1400px). The classes above can be combined to create more dynamic and flexible layouts."
+    },
+    {
+      "_id": "f36fnmjgdst3653677dgjki86edfscz45311",
+      "course_id": "05",
+      "title": "Bootstrap 5 Colors",
+      "img": "https://i.ytimg.com/vi/Os_vpdE4Pe0/maxresdefault.jpg",
+      "details": "Text Colors:-Bootstrap 5 has some contextual classes that can be used to provide 'meaning through colors'. The classes for text colors are: .text-muted, .text-primary, .text-success, .text-info, .text-warning, .text-danger, .text-secondary, .text-white, .text-dark, .text-body (default body color/often black) and .text-light. You can also add 50% opacity for black or white text with the .text-black-50 or .text-white-50 classes. Background Colors:- The classes for background colors are: .bg-primary, .bg-success, .bg-info, .bg-warning, .bg-danger, .bg-secondary, .bg-dark and .bg-light. The .bg-color classes above does not work well with text, or atleast then you have to specify a proper .text-color class to get the right text color for each background. However, you can use the .text-bg-color classes and Bootstrap will automatically handle the appropriate text color for each background color."
+    },
+    {
+      "_id": "f3d6fd9aasd695f037dsaf333dsf334545311",
+      "course_id": "05",
+      "title": "Bootstrap 5 Tables",
+      "img": "https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content-gh/en/_mdb5/standard/web/docs/data/tables/tables.jpg",
+      "details": "Basic Table:- A basic Bootstrap 5 table has a light padding and horizontal dividers. The .table class adds basic styling to a table. Striped Rows:-The .table-striped class adds zebra-stripes to a table.Bordered Table:- The .table-bordered class adds borders on all sides of the table and cells. Hover Rows:- The .table-hover class adds a hover effect (grey background color) on table rows. The .table-dark class adds a black background to the table. "
+    },
+    {
+      "_id": "dfds36fd93f037dsds324dfscz431111",
+      "course_id": "05",
+      "title": "Bootstrap 5 Jumbotron",
+      "img": "https://i.ytimg.com/vi/dQV-rulzf1g/maxresdefault.jpg",
+      "details": "A jumbotron was introduced in Bootstrap 3 as a big padded box for calling extra attention to some special content or information. Jumbotrons are no longer supported in Bootstrap 5. However, you can use a <div> element and add special helper classes together with a color class to achieve the same effect. Example:- <div class='mt-4 p-5 bg-primary text-white rounded'> <h1>Jumbotron Example</h1> <p>Lorem ipsum...</p> </div>"
+    },
+    {
+      "_id": "3df36fd9a6d95f037dsdaf3332d4dfsc45311",
+      "course_id": "05",
+      "title": "Bootstrap 5 Alerts",
+      "img": "https://i.ytimg.com/vi/jxtKoPrefms/maxresdefault.jpg",
+      "details": "Bootstrap 5 provides an easy way to create predefined alert messages. Alerts are created with the .alert class, followed by one of the contextual classes .alert-success, .alert-info, .alert-warning, .alert-danger, .alert-primary, .alert-secondary, .alert-light or .alert-dark. Alert Links:- Add the .alert-link class to any links inside the alert box to create 'matching colored links'  Closing Alerts:- To close the alert message, add a .alert-dismissible class to the alert container. Then add class='btn-close' and data-bs-dismiss='alert' to a link or a button element (when you click on this the alert box will disappear)."
+    },
+    {
+      "_id": "113df36fd9a6d95f037d2s2s3sd4dfsc45311",
+      "course_id": "06",
+      "title": "Node.js Modules",
+      "img": "https://miro.medium.com/max/800/1*N5-ZQ2eMWn45u-Y3qluVgw.png",
+      "details": "What is a Module in Node.js?:-Consider modules to be the same as JavaScript libraries. A set of functions you want to include in your application. Node.js has a set of built-in modules which you can use without any further installation. Include Modules:- To include a module, use the require() function with the name of the module: var http = require('http'); Now your application has access to the HTTP module, and is able to create a server. exmple:- http.createServer(function (req, res) { res.writeHead(200, {'Content-Type': 'text/html'}); res.end('Hello World!'); }).listen(8080);"
+    },
+    {
+      "_id": "13432df36fd9a6d95f037dsdaf3332d4dfscfd45311",
+      "course_id": "06",
+      "title": "Node.js File System",
+      "img": "https://www.kindsonthegenius.com/nodejs/wp-content/uploads/2019/09/Node.js-File-System.jpg",
+      "details": "Node.js as a File Server:- The Node.js file system module allows you to work with the file system on your computer. To include the File System module, use the require() method:- var fs = require('fs'); The fs.readFile() method is used to read files on your computer. The fs.writeFile() method replaces the specified file and content if it exists. If the file does not exist, a new file, containing the specified content, will be created. To delete a file with the File System module,  use the fs.unlink() method."
+    },
+    {
+      "_id": "213df3sa632fdfd39f2af62d95f037dsdaf3332d45311",
+      "course_id": "06",
+      "title": "Node.js URL Module",
+      "img": "https://i.ytimg.com/vi/lcbQon7d1Yg/maxresdefault.jpg",
+      "details": "The Built-in URL Module:- The URL module splits up a web address into readable parts. To include the URL module, use the require() method: var url = require('url'); Parse an address with the url.parse() method, and it will return a URL object with each part of the address as properties. Node.js File Server:- Now we know how to parse the query string, and in the previous chapter we learned how to make Node.js behave as a file server. Let us combine the two, and serve the file requested by the client. Create two html files and save them in the same folder as your node.js files. Create a Node.js file that opens the requested file and returns the content to the client. If anything goes wrong, throw a 404 error."
+    },
+    {
+      "_id": "903df36fd9a6d95f037dsdaf333d2d4dfsc453110",
+      "course_id": "06",
+      "title": "Node.js NPM",
+      "img": "https://positiwise.com/wp-content/uploads/2022/02/Node-Package-Manager-and-Node-JS-Installation-on-Windows-or-Mac.jpg",
+      "details": "What is NPM?:- NPM is a package manager for Node.js packages, or modules if you like. www.npmjs.com hosts thousands of free packages to download and use. The NPM program is installed on your computer when you install Node.js. What is a Package?:-A package in Node.js contains all the files you need for a module. Modules are JavaScript libraries you can include in your project. Downloading a package is very easy. Open the command line interface and tell NPM to download the package you want. I want to download a package called 'upper-case': npm install upper-case  Now you have downloaded and installed your first package!"
+    },
+    {
+      "_id": "2121213df36fd9a6d9s5f037dsdaf33dc45311",
+      "course_id": "06",
+      "title": "Node.js Events",
+      "img": "https://www.readymadecode.com/wp-content/uploads/2021/07/How-to-use-events-in-NodeJS.jpg",
+      "details": "Node.js is perfect for event-driven applications. Every action on a computer is an event. Like when a connection is made or a file is opened. Objects in Node.js can fire events, like the readStream object fires events when opening and closing a file. Events Module:- Node.js has a built-in module, called 'Events', where you can create-, fire-, and listen for- your own events. To include the built-in Events module use the require() method. In addition, all event properties and methods are an instance of an EventEmitter object. To be able to access these properties and methods, create an EventEmitter object "
+    },
+    {
+      "_id": "753df36fd9a6d95f037dsd54af3332d4dfsc4531121",
+      "course_id": "06",
+      "title": "Error handling",
+      "img": "https://miro.medium.com/max/899/0*FS04SrmkxxSWGrL-.png",
+      "details": "If any AsyncHook callbacks throw, the application will print the stack trace and exit. The exit path does follow that of an uncaught exception, but all 'uncaughtException' listeners are removed, thus forcing the process to exit. The 'exit' callbacks will still be called unless the application is run with --abort-on-uncaught-exception, in which case a stack trace will be printed and the application exits, leaving a core file. The reason for this error handling behavior is that these callbacks are running at potentially volatile points in an object's lifetime, for example during class construction and destruction. Because of this, it is deemed necessary to bring down the process quickly in order to prevent an unintentional abort in the future. This is subject to change in the future if a comprehensive analysis is performed to ensure an exception can follow the normal control flow without unintentional side effects."
+    }
+  ]
